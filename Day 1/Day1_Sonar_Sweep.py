@@ -35,10 +35,4 @@ for i in range(len(list2)):
                 cont+=1
         aux=list2[i]
 
-#print(list2)
 print(f"Counter part 2: {cont}")
-
-
-
-
-
