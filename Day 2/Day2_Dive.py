@@ -1,6 +1,6 @@
 #Day 2 Dive!
 
-f=open("prueba.txt","r")
+f=open("input.txt","r")
 
 horizontal=0
 depth=0
